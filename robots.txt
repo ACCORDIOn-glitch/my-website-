@@ -1,0 +1,28 @@
+# Ayoola Enterprise - foodstuffs, frozen fish and drinks, retail and wholesale.
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+Disallow: /cart.html
+
+Sitemap: https://ayoolaenterprise.com/sitemap.xml

@@ -25,4 +25,4 @@ Allow: /
 
 Disallow: /cart.html
 
-Sitemap: https://ayoolaenterprise.com/sitemap.xml
+Sitemap: https://ayoolaenterprise.pages.dev/sitemap.xml
